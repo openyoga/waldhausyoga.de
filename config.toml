@@ -1,0 +1,39 @@
+baseURL = "https://waldhausyoga.de"
+languageCode = "de"
+title = "Waldhausyoga"
+
+paginate = 100
+pygmentsCodefences = true
+pygmentsUseClasses = true
+enableRobotsTXT = true
+disableAliases = true
+metaDataFormat = "yaml"
+
+[params]
+rssLimit = 100
+description = "Yoga in Waidhaus"
+authors = ["agobrecht"]
+
+[permalinks]
+artikel = "/:section/:year/:filename/"
+rezepte = "/:section/:filename/"
+
+[taxonomies]
+schlagwort = "schlagwoerter"
+rezeptart = "rezeptarten"
+hauptzutat = "hauptzutaten"
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+
+[[menu.main]]
+name = "Artikel"
+weight = 50
+identifier = "artikel"
+url = "/artikel/"
+[[menu.main]]
+name = "Rezepte"
+weight = 60
+identifier = "rezepte"
+url = "/rezepte/"

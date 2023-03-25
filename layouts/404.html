@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="index">
+  <header class="item-header">
+    <h1 class="item-title">Sorry, Seite nicht gefunden :-(</h1>
+  </header>
+  <div class="item-content">
+
+<p>Die Seite, nach der Du schaust existiert nicht. Hier die Liste der letzten Artikel und Rezepte in chronologischer Reihenfolge - siehe bitte auch die Navigation (<a href="/">zurück zur Startseite</a>):</p>
+
+{{ range first 100 ((where .Site.RegularPages "Section" "in" (slice "artikel" "rezepte")).GroupByDate "2006")}}
+<h2 id="year-{{ .Key }}">{{ .Key }}</h2>
+<ul class="item-list-archive">
+  {{- range .Pages }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ with .Description }}<br><span class="item-meta">{{ . }}</span>{{ end }}
+  </li>
+  {{- end }}
+</ul>
+{{ end }}
+
+  </div>
+</section>
+{{ end }}
