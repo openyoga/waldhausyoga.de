@@ -3,7 +3,7 @@ title: Die Doshas im Wandel der Zeiten
 description: Wie die Doshas mit den Phasen in unserem Leben zusammenhängen
 schlagwoerter: [Ayurveda]
 publishdate: 2023-08-08
-lastmod: 2023-08-08 16:35:00
+lastmod: 2023-08-26 11:21:00
 ---
 
 {{< img src="/assets/images/leaves.jpg" alt="Leaves in different colours on a clothesline" caption="Foto von Chris Lawton  auf unsplash.com">}}
@@ -50,4 +50,16 @@ Während **Kindheit und Jugend (bis ca. 20 Jahre)** ist Kapha vorherrschend. Der
 
 Im **mittleren Lebensabschnitt (ca. 20 bis 50/ 60 Jahre)** ist Pitta vorherrschend. Der Mensch befindet sich nun in seiner aktivsten und kraftvollsten Lebensphase. Er gründet eine Familie, schafft sich ein Zuhause und erlangt beruflichen Erfolg. Pitta entspricht dem Prinzip der Umwandlung und Veränderung (Metabolismus). Jetzt sollten wir aufpassen, dass wir nicht zu ehrgeizig und materialistisch werden und uns genügend Ruhepausen gönnen.
 
-**Ab ca. 50 bis 60 Jahren** herrscht Vata vor. Vata steht für Katabolismus (Abbau). Jetzt können wir mit verschiedenen Maßnahmen wie entsprechender Ernährung versuchen, uns unsere Stabilität zu erhalten. Nun beginnt aber auch die Zeit des Loslassens und der inneren Einkehr.
+**Ab ca. 50/ 60 Jahren** herrscht Vata vor. Vata steht für Katabolismus (Abbau). Jetzt können wir mit verschiedenen Maßnahmen wie entsprechender Ernährung versuchen, uns unsere Stabilität zu erhalten. Nun beginnt aber auch die Zeit des Loslassens und der inneren Einkehr.
+
+
+
+## Der weibliche Zyklus
+
+Auch der Monatszyklus lässt sich im Ayurveda in drei Phrasen unterteilen:
+
+Bis zum Eisprung dominiert **Kapha**. Kapha wirkt stabilisierend - meist fühlen wir uns in dieser Zeit ruhig und ausgeglichen. Störungen können sich z.B. durch eine starke Gewichtszunahme oder ein extremes Bedürfnis nach Schlaf äussern.
+
+Zwischen Eisprung und Menstruation herrscht **Pitta**  vor. Wir fühlen uns voller Energie und Dynamik. Übersäuerung, Entzündungen oder Myome können auf eine Pitta-Störung hindeuten.
+
+Während der Menstruation herrscht **Vata** vor. Unsere Sinne sind in dieser Zeit hell wach, wir reagieren schnell und stecken voller Kreativität und Ideen. Wenn die Blutung schmerzhaft ist, wir schlaflos oder sehr nervös sind, deutet das auf eine Vata-Störung hin. 
