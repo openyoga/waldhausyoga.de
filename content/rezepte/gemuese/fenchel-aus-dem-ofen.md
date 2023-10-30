@@ -4,10 +4,10 @@ description:  Mit einer leicht süßen Geschmacksnote
 rezeptarten: [Gemuese]
 hauptzutaten: [Fenchel, Zitrone]
 publishdate: 2019-07-20
-lastmod: 2019-07-20 05:27:00
+lastmod: 2023-10-30 15:27:00
 ---
 
- Im Backofen gegarter Fenchel ist ein echtes  Geschmackserlebnis: Er wird leicht süßlich, schmeckt etwas nach Anis und ist unglaublich lecker. Fenchel kommt ursprünglich aus den Mittelmeerländern und Vordersien und wurde schon von den Ägyptern, Griechen und Römern als Heilpflanze geschätzt.
+ Im Backofen gegarter Fenchel ist ein echtes  Geschmackserlebnis: Er wird leicht süßlich, schmeckt etwas nach Anis und ist unglaublich lecker. Fenchel kommt ursprünglich aus den Mittelmeerländern und Vorderasien und wurde schon von den Ägyptern, Griechen und Römern als Heilpflanze geschätzt.
 
 ## Zutaten
 

@@ -3,7 +3,7 @@ title: Yoga für die Doshas
 description: Welches Yoga ist am besten für mich geeignet?
 schlagwoerter: [Yoga, Ayurveda]
 publishdate: 2023-06-03
-lastmod: 2023-06-03 08:35:00
+lastmod: 2023-10-30 14:35:00
 ---
 
 {{< img src="/assets/images/yoga-in-mountains.jpg" alt="Woman on top of mountain practising the yoga asana the tree with view over the summits during sunset" caption="Foto von Eneko Uruñuela auf unsplash.com">}}
@@ -19,7 +19,7 @@ Bei Störungen der Doshas oder Erkrankungen ist es aber durchaus sinnvoll, die Y
 
 ## Kapha
 
-Kapha darf beim Yogaüben gerne ins Schwitzen kommen. Dynamischere Yogastile wie Vinyasa Flow Yoga oder Jivamukti Yoga sind für Kapha-Menschen zwar eine Herausforderung, werden ihnen aber gut tun. Eine Übersicht über die verschiedenen Yogarichtungen gibt es in [folgendem Artikel][2]. Musik, eine nette Grupppe, ein guter Yogalehrer, ein fester Termin im Kalender, all das kann die Motivation steigern.
+Kapha darf beim Yogaüben gerne ins Schwitzen kommen. Dynamischere Yogastile wie Vinyasa Flow Yoga oder Jivamukti Yoga sind für Kapha-Menschen zwar eine Herausforderung, werden ihnen aber gut tun. Eine Übersicht über die verschiedenen Yogarichtungen gibt es in [folgendem Artikel][2]. Musik, eine nette Gruppe, ein guter Yogalehrer, ein fester Termin im Kalender, all das kann die Motivation steigern.
 
 Um intensiver zu üben, können Kapha-Menschen die Asanas beim Hatha-Yoga auch länger halten oder Variationen mit Bewegung einbauen, z.B. im Schulterstand abwechselnd ein Bein Richtung Boden absenken und wieder nach oben heben. Während der Yogastunde, in der sich Kapha-Konstitutionen sanft herausfordern, sollte ihre Konzentration aber immer auf einem ruhigen, gleichmäßigen Atem liegen.
 
