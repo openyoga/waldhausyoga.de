@@ -4,7 +4,7 @@ description: Der Klassiker ohne Weißmehl und Zucker
 rezeptarten: [Kuchen]
 hauptzutaten: [Quark, Butter, Dinkel]
 publishdate: 2023-11-01
-lastmod: 2023-11-01 07:42:00
+lastmod: 2023-11-01 17:42:00
 ---
 
 Da Ottmar krümeligen Käsekuchen liebt, haben wir diese Version kreiert, die ohne Zucker und Weißmehl richtig lecker schmeckt und nah an das nordhessische Original herankommt.
@@ -38,6 +38,6 @@ Da Ottmar krümeligen Käsekuchen liebt, haben wir diese Version kreiert, die oh
 
 1. Alle Zutaten für den Mürbeteig verkneten und den Teig im Kühlschrank kalt stellen
 2. Den Backofen auf 160 Grad Umluft vorheizen, eine kleine Springform (Durchmesser 19 cm) mit Butter einfetten
-3. Für die Käsemasse Erythrit, Butter, Eier und Eiweißpulver schaumig schlagen. Magerquark, Dinkelgrieß, Vanillepuddingpulver und Backpulver verrühren, dann die Ei-Erythrit-Butter-Masse unterheben
+3. Für die Käsemasse Erythrit, Butter, Eier und Eiweißpulver schaumig schlagen; Magerquark, Dinkelgrieß, Vanillepuddingpulver und Backpulver verrühren, dann die Ei-Erythrit-Butter-Masse unterheben
 4. Mürbeteig aus dem Kühlschrank holen, in der gefetten Form auf den Boden ausrollen und auch den Rand  damit belegen; die Käsemasse einfüllen und ab damit in den Backofen:
-5. Bei 160 Grad Umluft ca. 50 Minuten lang backen (Nadelprobe). Danach Backofen ausstellen, Ofentür öffnen und Kuchen darin kalt werden lassen; so kann er nicht zusammenfallen.
+5. Bei 160 Grad Umluft ca. 50 Minuten lang backen (Nadelprobe); danach Backofen ausstellen, Ofentür öffnen und Kuchen darin kalt werden lassen; so kann er nicht zusammenfallen
