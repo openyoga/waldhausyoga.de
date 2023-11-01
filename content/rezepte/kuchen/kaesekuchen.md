@@ -32,7 +32,7 @@ Da Ottmar krümeligen Käsekuchen liebt, haben wir diese Version kreiert, die oh
 - 30 g Eiweißpulver mit Vanille-Geschmack
 - 25 g Vanillepuddingpuler
 - 2 Eier
-- 1 Tl Backpulver
+- 1 Teelöffel Backpulver
 
 ## Zubereitung
 
