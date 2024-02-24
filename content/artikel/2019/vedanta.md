@@ -3,12 +3,12 @@ title: Vedanta
 description: Eine Einführung in die Yogaphilosophie
 schlagwoerter: [Yogaphilosophie, Vedanta]
 publishdate: 2019-01-26
-lastmod: 2019-01-26 06:52:00
+lastmod: 2024-02-24 07:52:00
 ---
 
 {{< img src="/assets/images/buddha-schnee.jpg" alt="Buddha im Schnee" >}}
 
-Wörtlich übersetzt heißt Vedanta Ende des Wissens (Veda=Wissen, Anta=Ende) oder auch Essenz der Veden. Diese indische Philosophie wurde in den Upanishaden, dem letzten Teil der Veden, schriftlich festgehalten. Exakt datieren lässt sie sich nicht - je nach Autor könnte sie über 5000 Jahre oder 2500 bis 2800 Jahre alt sein. Sie beschäftigt sich mit universellen philosophische Gedanken. Heute ist sie eine der populärsten Philosophierichtungen Indiens. Der Gelehrte und Philosoph Shankaracharya (788 - 820 n. Chr.) machte Vedanta bekannt. Die Upanishaden wiederum sind eine Sammlung philosophischer Schriften des alten Indiens - die ältesten der 108 Upanishaden wurden ca. 800 v. Chr. verfasst.
+Wörtlich übersetzt heißt Vedanta Ende des Wissens (Veda=Wissen, Anta=Ende) oder auch Essenz der Veden. Diese indische Philosophie wurde in den Upanishaden, dem letzten Teil der Veden, schriftlich festgehalten. Exakt datieren lässt sie sich nicht - je nach Autor könnte sie über 5000 Jahre oder 2500 bis 2800 Jahre alt sein. Sie beschäftigt sich mit universellen philosophischen Gedanken. Heute ist sie eine der populärsten Philosophierichtungen Indiens. Der Gelehrte und Philosoph Shankaracharya (788 - 820 n. Chr.) machte Vedanta bekannt. Die Upanishaden wiederum sind eine Sammlung philosophischer Schriften des alten Indiens - die ältesten der 108 Upanishaden wurden ca. 800 v. Chr. verfasst.
 
 
 ## Advaita Vedanta

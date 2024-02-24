@@ -3,8 +3,8 @@ title: Erdbeer-Rhabarber-Kompott
 description: Fein abgeschmeckt mit Vanillepudding
 rezeptarten: [Snack]
 hauptzutaten: [Erdbeeren, Rhabarber, Vanillepudding]
-publishdate: 2023-12-05
-lastmod: 2023-12-05 20:00:00
+publishdate: 2024-12-05
+lastmod: 2024-12-05 20:00:00
 ---
 
 bla

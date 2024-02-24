@@ -3,8 +3,8 @@ title: Pasta mit gebackenem Kürbis und Walnüssen
 description: Nicht nur im Winter ein Gedicht
 rezeptarten: [Pasta]
 hauptzutaten: [Kuerbis, Nuesse]
-publishdate: 2023-12-01
-lastmod: 2023-12-01 12:32:00
+publishdate: 2024-12-01
+lastmod: 2024-12-01 12:32:00
 ---
 
 Wenn man den Kürbis im Backofen gart, bekommt er einen leicht süsslichen Geschmack. Er harmoniert perfekt mit Pasta, Walnüssen, Gomasio und Pecorino.

@@ -2,8 +2,8 @@
 title: Aromatherapie für die Doshas
 description: Welche Wirkung wir mit welchem Duft erzielen
 schlagwörter: [Ayurveda]
-publishdate: 2023-12-08
-lastmod: 2023-12-08 08:35:00
+publishdate: 2024-12-08
+lastmod: 2024-12-08 08:35:00
 ---
 
 {{< img src="/assets/images/aromatherapie.jpg" alt="Different oils and a fragrance lamp on a bathtub shelf" caption="Foto von volant auf unsplash.com">}}

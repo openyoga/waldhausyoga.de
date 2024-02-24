@@ -3,8 +3,8 @@ title: Schoko-Kuchen
 description: 
 rezeptarten: [Kuchen]
 hauptzutaten: [Zucchini, Nuesse, Kakao]
-publishdate: 2023-12-05
-lastmod: 2023-12-05 06:05:00
+publishdate: 2024-12-05
+lastmod: 2024-12-05 06:05:00
 ---
 
 Geraspelte Zucchini machen diesen Kuchen herrlich luftig und locker. Man schmeckt sie nicht und wenn sie fein genug gerieben werden, sieht man sie auch nicht. Wir haben dieses Rezept in unser Repertoire aufgenommen, als die Gartenzeit uns zu viele Zucchini in zu kurzer Zeit bescherte.

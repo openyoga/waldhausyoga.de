@@ -3,8 +3,8 @@ title: Nuss-Feigen-Brot
 description: Nicht nur im Herbst und Winter ein leckeres Brot ohne Mehl
 rezeptarten: [Brot]
 hauptzutaten: [Nuesse, Feigen, Leinsamen]
-publishdate: 2023-12-04
-lastmod: 2023-12-04 07:02:00
+publishdate: 2024-12-04
+lastmod: 2024-12-04 07:02:00
 ---
 
 bla

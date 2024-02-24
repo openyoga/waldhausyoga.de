@@ -3,8 +3,8 @@ title: Pasta mit Zucchini und Salbei
 description: Fein abgesschmeckt mit einem Schuss Sahne und viel Limettensaft
 rezeptarten: [Pasta]
 hauptzutaten: [Bohnen, Tomaten, Salbei]
-publishdate: 2023-12-01
-lastmod: 2023-12-01 06:02:00
+publishdate: 2024-12-01
+lastmod: 2024-12-01 06:02:00
 ---
 
 Dieses vegetarische Rezept entstand in der Zeit, als wir im Garten von zu viel reifen Zucchini in zu kurzer Zeit beschenkt wurden. Es schmeckt herrlich nach Sommer.

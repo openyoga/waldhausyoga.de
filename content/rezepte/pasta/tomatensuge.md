@@ -3,8 +3,8 @@ title: Tomatensugo
 description: Die Basis fuer viele leckere Pastagerichte
 rezeptarten: [Pasta]
 hauptzutaten: [Tomaten, Schalotten, Knoblach]
-publishdate: 2023-12-14
-lastmod: 2023-12-14 05:02:00
+publishdate: 2024-12-14
+lastmod: 2024-12-14 05:02:00
 ---
 
 Wenn im Garten die Tomaten reif sind, kochen wir Sugo und frieren es portioniert ein, damit wir auch im Winter den Geschmack von Hochsommer auf der Zunge haben.
