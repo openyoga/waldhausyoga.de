@@ -1,6 +1,6 @@
 ---
 title: Pasta mit Zucchini und Salbei
-description: Fein abgesschmeckt mit einem Schuss Sahne und viel Limettensaft
+description: Fein abgesschmeckt mit einem Schuss Sahne und Limettensaft
 rezeptarten: [Pasta]
 hauptzutaten: [Zucchini, Sahne, Salbei]
 publishdate: 2024-07-19
