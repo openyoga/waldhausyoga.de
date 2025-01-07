@@ -1,13 +1,13 @@
 ---
 title: Nuss-Feigen-Brot
-description: Nicht nur im Herbst und Winter ein leckeres Brot ohne Mehl
+description: Nicht nur im Winter ein leckeres Brot ohne Mehl
 rezeptarten: [Brot]
 hauptzutaten: [Nuesse, Feigen, Leinsamen]
-publishdate: 2024-12-04
-lastmod: 2024-12-04 07:02:00
+publishdate: 2025-12-30
+lastmod: 2025-12-30 07:02:00
 ---
 
-bla
+Es erinnert ein wenig an Fruechtebrot, ist aber weniger suess und schmeck ausgesprochen gut mit allen moeglichen Kaesesorten: Unser glutenfreies Nuss-Feigen-Brot ohne Mehl. 
 
 ## Zutaten
 
@@ -31,9 +31,9 @@ bla
 2. Die Nuesse grob hacken
 3. Haferflocken, Nuesse, Feigen, Leinsamen, Flohsamenschalen und Salz in einer Schuessel mischen, Ahorsirup und Rapsoel dazu geben
 4. Wasser im Wasserkocher erhitzen und heiss dazugeben, alle gut durchruehren und in eine mit Backpapier ausgelegte Kastenform geben
-5. Den Brotteige 30 Min. lang quellen lassen
+5. Den Brotteig 30 Min. lang in der Form quellen lassen
 6. Backofen auf 200 Grad Ober- und Unterhitze vorheizen
-7. Das Brot 40 Minuten lang backen, dann mit Alufolie abdecken und weitere 40 Minuten lang backen, dann mindestends zwei Stunden lang abkuehlen lassen
+7. Das Brot 40 Minuten backen, dann mit Alufolie abdecken und fuer weitere 40 Minuten backen, dann mindestends zwei Stunden lang abkuehlen lassen
 
 
 Das Brot haelt sich gut eine Woche lang frisch. Bei uns ist es aber wesentlich schneller weggefuttert :-)

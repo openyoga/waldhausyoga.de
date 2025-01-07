@@ -1,7 +1,7 @@
 ---
 title: About
 description: Eine Seite mit Hintergrundinformationen zu Waldhausyoga
-lastmod: 2024-02-24 07:58:02
+lastmod: 2025-01-07 13:52:02
 menu:
   main:
     weight: 70
@@ -23,9 +23,9 @@ Ich selbst bin Computerlinguistin (MA), arbeite im IT-Bereich einer großen priv
 
 2008 begann ich in einer beruflich stressigen Situation mit Hatha Yoga - es war Liebe auf den ersten Blick. Schon nach meiner ersten Stunde kaufte ich mir ein Yoga-Buch und begann auch zu Hause Asanas (Yogaübungen) und Sonnengrüße zu üben. Seitdem praktiziere ich fast täglich - Yoga tut mir einfach wahnsinnig gut. Natürlich mag ich auch andere Bewegungsformen - besonders Functional Training, Animal Athletics, Radfahren, Schwimmen, Nordic Walking und Wandern. Aber für eine kleine (oder größere ;-) Yoga-Session nehme ich mir immer Zeit.
 
-Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und absolvierte eine zweijährige Yogalehrer Ausbildung beim größten Verein für Yogalehrerausbildungen in Deutschland. Weiterbildungen in Anatomie und Korrekturen, Sportmedizin, Rückenyoga und Yin Yoga / Faszientraining folgten. 
+Nach Jahren der eigenen Praxis wollte ich gerne mehr über Yoga erfahren und absolvierte eine zweijährige Yogalehrer Ausbildung (723 Stunden) beim größten Verein für Yogalehrerausbildungen in Deutschland. Ich habe auch die 300 Stunden Yogatherapie-Ausbildung beim [Momentum Regeneration Yogatherapie Programm][momentum] absolviert. 
 
-Ich verfüge über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin. Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer. Seit 2020 mache ich eine Yogatherapie-Ausbildung beim [Momentum Regeneration Yogatherapie Programm][momentum]. Ich genieße es sehr, Yoga und Yogatherapie an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Yogastunde in glückliche und entspannte Gesichter zu blicken.
+Neben Weiterbildungen in Anatomie und Korrekturen, Sportmedizin, Rückenyoga und Yin Yoga / Faszientraining verfüge ich über eine Fitnesstrainer B-Lizenz, die A-Lizenz für Medizinisches Fitnesstraining / Rehasport sowie einen Abschluss als Ernährungsberaterin. Noch dazu bin ich Certified Functional Trainer  Level 1 & 2 und Certified Animal Athletics Trainer. Ich genieße es sehr, Yoga und Yogatherapie an Menschen allen Alters und aller Fitnessgrade weiterzugeben und nach einer guten Yogastunde in glückliche und entspannte Gesichter zu blicken.
 
 
 ## Website Technik
