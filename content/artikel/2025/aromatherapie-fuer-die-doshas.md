@@ -2,8 +2,8 @@
 title: Aromatherapie für die Doshas
 description: Welche Wirkung wir mit welchem Duft erzielen
 schlagwörter: [Ayurveda]
-publishdate: 2025-12-30
-lastmod: 2025-12-30 08:35:00
+publishdate: 2025-01-25
+lastmod: 2025-01-25 08:35:00
 ---
 
 {{< img src="/assets/images/aromatherapie.jpg" alt="Different oils and a fragrance lamp on a bathtub shelf" caption="Foto von volant auf unsplash.com">}}
@@ -34,3 +34,4 @@ Für Vata-Konstitutionen eignen sich besonders süße und würzige Düfte mit en
 
 **Bei Erkältung** können Basilikum, Fenchel, Kamille, Minze, Pinie, Rosmarin, Thymian, Zitrone, Myrte, Ysop oder Oregano Linderung verschaffen. Eukalyptus wirkt krampflösend und befreit von Schleim. Thymian hilft gegen Husten. 
 
+**Gegen Kopfschmerzen** eignen sich Pfefferminzöl, Zitronenöl oder Lavendelöl. Pfefferminzöl wirkt kühlend und kann die Konzentration steigern, Zitronenöl kann Dich erfrischen und aufmuntern,  Lavendelöl wirkt entspannend und beruhigend. Bei Kopfschmerzen kannst Du auch ein bis zwei Tropfen Pfefferminzöl auf der Stirn einmassieren. Sei aber vorsichtig, dass dabei kein Öl in die Augen läuft.
