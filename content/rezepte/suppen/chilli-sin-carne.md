@@ -3,11 +3,11 @@ title: Chilli Sin Carne
 description: Ein nahrhafter und leckerer Eintopf ganz ohne Fleisch
 rezeptarten: [Suppe]
 hauptzutaten: [Gemuese]
-publishdate: 2025-12-30
-lastmod: 2025-12-30 06:48:00
+publishdate: 2025-01-25
+lastmod: 2025-01-25 06:48:00
 ---
 
-Dieses leckere Chilli macht unseren Bauch warm, satt und glücklich. Wir bereiten auch gern die doppelte Menge zu und wärmen die Reste am nächsten Tag einfach nochmal auf. Wer es etwas professioneller angehen will, kann die Tomaten vor dem Schneiden noch kurz in heiße Wasser legen und häuten.
+Dieses leckere Chilli macht unseren Bauch warm, satt und glücklich. Wir bereiten auch gern die doppelte Menge zu und wärmen die Reste am nächsten Tag einfach nochmal auf. Wer es etwas professioneller angehen will, kann die Tomaten vor dem Schneiden noch kurz in heißes Wasser legen und häuten.
 
 ## Zutaten
 

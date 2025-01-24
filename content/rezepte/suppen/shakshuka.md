@@ -7,13 +7,13 @@ publishdate: 2025-12-30
 lastmod: 2025-12-30 20:00:00
 ---
 
-In Israel ist die Shakshuka ein Frühstück, das man schon fast als Nationalgericht bezeichnen kann. Wir essen sie am liebsten als kleines und leichtes Abendessen mit Schafskäse statt mit Lammbratwurst.
+In Israel ist die Shakshuka ein Frühstück, das man schon fast als Nationalgericht bezeichnen kann. Wir essen sie am liebsten als kleines und leichtes Abendessen mit Schafskäse statt Lammbratwurst.
 
 ## Zutaten
 
 - 4 rote und gelbe Paprika, geputzt und kleingeschnitten
 - 1 Dose gehackte Tomaten
-- 2 Eier
+- 2 Eier von glücklichen Hühnern
 - 2 Zwiebeln, geschält und kleingeschnitten (alternativ Asafoitida)
 - 1 Chillischote, gemörsert (alternativ 1 Tl Paprikapulver)
 - 1 Tl Cumin

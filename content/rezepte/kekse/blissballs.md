@@ -1,10 +1,10 @@
 ---
 title: Bliss Balls
-description: Kekse mit Sommerurlaubsaroma
+description: Gesunde Energie für Körper und Geist
 rezeptarten: [Kekse]
 hauptzutaten: [Datteln, Cashewkerne, Kakao, Sesamsamen]
 publishdate: 2025-12-30
-lastmod: 2025-12-30 07:44:00
+lastmod: 2025-12-30 00:44:00
 ---
 
 Mit diesen Bliss Balls kannst Du etwas gegen den Süßhunger tun, was Dir Energie und gesunde Nährstoffe gibt. Sind sind sehr schnell zubereitet. In einer Dose mit Deckel luftdicht verschlossen halten sie sich im Kühlschrank bis zu zwei Wochen lang frisch. Falls Du so lange an ihnen vorbeigehen kannst ;-)
