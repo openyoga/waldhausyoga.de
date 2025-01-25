@@ -1,5 +1,5 @@
 ---
-title: Chilli Sin Carne
+title: Chili Sin Carne
 description: Ein nahrhafter und leckerer Eintopf ganz ohne Fleisch
 rezeptarten: [Suppe]
 hauptzutaten: [Gemuese]
@@ -7,7 +7,7 @@ publishdate: 2025-01-25
 lastmod: 2025-01-25 06:48:00
 ---
 
-Dieses leckere Chilli macht unseren Bauch warm, satt und glücklich. Wir bereiten auch gern die doppelte Menge zu und wärmen die Reste am nächsten Tag einfach nochmal auf. Wer es etwas professioneller angehen will, kann die Tomaten vor dem Schneiden noch kurz in heißes Wasser legen und häuten.
+Dieses leckere Chili macht unseren Bauch warm, satt und glücklich. Wir bereiten auch gern die doppelte Menge zu und wärmen die Reste am nächsten Tag einfach nochmal auf. Wer es etwas professioneller angehen will, kann die Tomaten vor dem Schneiden noch kurz in heißes Wasser legen und häuten.
 
 ## Zutaten
 
@@ -20,7 +20,7 @@ Dieses leckere Chilli macht unseren Bauch warm, satt und glücklich. Wir bereite
 - 250 ml Gemüsebrühe
 - 1 Dose Kidneybohnen, abgetropft
 - 2 El Olivenöl
-- 1 Chillischote, im Mörser zerkleinert
+- 1 Chilischote, im Mörser zerkleinert
 - 1 Tl Oregano, gerebelt
 - 1 Tl Paprika edelsüß
 - Zitronenpfeffer (alternativ normaler Pfeffer)
@@ -31,7 +31,7 @@ Dieses leckere Chilli macht unseren Bauch warm, satt und glücklich. Wir bereite
 
 ## Zubereitung
 
-1. Olivenöl in einem beschichteten Topf erwärmen, Schalotte darin andünsten, Chilli und Oregano dazufügen
+1. Olivenöl in einem beschichteten Topf erwärmen, Schalotte darin andünsten, Chili und Oregano dazufügen
 2. Hack dazugeben und kurz mit anbraten
 3. Paprikawürfel, Stangensellerie und Gemüsebrühe mit in den Topf geben und zehn Minuten schmoren lassen
 4. Tomaten unterrühren und weitere zehn Minuten köcheln lassen
