@@ -1,10 +1,10 @@
 ---
 title: Mung-Dal mit Lieblingsgemüse
 description: Wärmendes Soulfood im Winter
-rezeptarten: [Gemüse]
+rezeptarten: [Gemuese]
 hauptzutaten: [Mung Dal, Reis]
 publishdate: 2024-11-24
-lastmod: 2024-11-24 18:08:00
+lastmod: 2025-03-01 10:56:00
 ---
 
 Ayurvedischer Mung Dal ist ein Eintopf aus Hülsenfrüchten und Basmatireis. Wir köcheln uns Lieblingsgemüse und Kartoffeln darin. Ein sehr leckeres, wärmendes Gericht in der kalten Jahreszeit. Es ist vegan, aber eine ideale Eiweißquelle und macht nicht nur den Bauch, sondern auch die Seele satt und zufrieden. 

@@ -3,11 +3,11 @@ title: Bliss Balls
 description: Gesunde Energie für Körper und Geist
 rezeptarten: [Kekse]
 hauptzutaten: [Datteln, Cashewkerne, Kakao, Sesamsamen]
-publishdate: 2025-12-30
-lastmod: 2025-12-30 00:44:00
+publishdate: 2025-03-01
+lastmod: 2025-03-01 10:44:00
 ---
 
-Mit diesen Bliss Balls kannst Du etwas gegen den Süßhunger tun, was Dir Energie und gesunde Nährstoffe gibt. Sind sind sehr schnell zubereitet. In einer Dose mit Deckel luftdicht verschlossen halten sie sich im Kühlschrank bis zu zwei Wochen lang frisch. Falls Du so lange an ihnen vorbeigehen kannst ;-)
+Diese Bliss Balls vernaschen wir, wenn wir Süßhunger haben. Sie liefern viel Energie und gesunde Nährstoffe und sind sehr schnell zubereitet. In einer Dose mit Deckel luftdicht verschlossen halten sie sich im Kühlschrank bis zu zwei Wochen lang frisch. Falls Du so lange an ihnen vorbeigehen kannst ;-)
 
 
 ## Zutaten
