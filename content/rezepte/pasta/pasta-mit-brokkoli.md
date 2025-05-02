@@ -2,12 +2,12 @@
 title: Pasta mit Brokkoli
 description: Pesto Genovese und Pinienkerne verleihen dieser Pasta ihren charakteristischen Geschmack
 rezeptarten: [Pasta]
-hauptzutaten: [Zucchini, Sahne, Salbei]
-publishdate: 2025-12-31
-lastmod: 2025-12-31 08:25:05
+hauptzutaten: [Brokkoli, Pesto]
+publishdate: 2025-05-02
+lastmod: 2025-05-02 07:25:05
 ---
 
-Wenn im Garten zu viel Brokkoli zur gleichen Zeit reif wird, essen wir dieses Rezept abends rauf und runter.
+Wenn im Garten zu viel Brokkoli zur gleichen Zeit reif wird, essen wir dieses Rezept abends rauf und runter. Und außerhalb der Saison bereiten wir es mit Brokkoli aus dem Supermarkt zu.
 
 
 ## Zutaten
@@ -16,19 +16,18 @@ Wenn im Garten zu viel Brokkoli zur gleichen Zeit reif wird, essen wir dieses Re
 - 150 g Vollkornpenne
 - 30 g Pinienkerne
 - 1 Limette, ausgepresst
-- 1 El Olivenoel
-- Pesto Genovese
+- 1 El Olivenöl
+- Pesto Genovese nach Belieben
 - Parmesan, frisch gerieben
 
 
 ## Zubereitung
 
-1. Die Vollkornpenne in einem Wassertopf mit Salz garen, danach abschütten
-2. Brokkoli in einem Topf mit Wasser ca. vier Minuten garen (Achtung, frischer Brokkoli aus dem Garten braucht etwas laenger)
-3. Pinienkerne in einer beschichteten Pfanne kurz anroesten, bis sie anfangen, sich leicht zu verfaerben
-4. Zwei bis drei Essloeffel Pesto, einen Essloeffel Limettensaft und einen Essloeffel Olivenoel vermischen, dann den Brokkoli, die Penne und die Pinienkerne unterrühren
-5. Frisch geriebenenen Parmesan ueber die Pasta geben
-6. Guten Appetit
+1. Die Vollkornpenne in einem Wassertopf mit Salz nach Packungsanweisung garen, danach abschütten
+2. Brokkoli in einem Topf mit Wasser ca. vier Minuten garen; Achtung, frischer Brokkoli aus dem Garten braucht etwas länger
+3. Pinienkerne in einer beschichteten Pfanne kurz anrösten, bis sie anfangen, sich leicht zu verfärben
+4. Zwei bis drei Esslöffel Pesto (oder mehr), einen Esslöffel Limettensaft und einen Esslöffel Olivenöl vermischen, dann den Brokkoli, die Penne und die Pinienkerne unterrühren
+5. Frisch geriebenenen Parmesan über die Pasta geben
 
 
 Die Pasta reicht für zwei Personen als Hauptgericht.
