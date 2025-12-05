@@ -4,7 +4,7 @@ description: So schnell und unkompliziert backen wir frische Brötchen
 rezeptarten: [Brot]
 hauptzutaten: [Dinkelmehl, Buttermilch, Sesam]
 publishdate: 2024-02-24
-lastmod: 2024-08-24 08:43:00
+lastmod: 2025-10-25 11:01:01
 ---
 
 Das ist eines unserer liebsten Wochenendrituale: Morgens kneten wir einen unkomplizierten Hefeteig, dann machen wir Yoga und danach backen wir unsere Semmeln fertig und freuen uns über einen herrlichen Brunch. 
@@ -13,7 +13,8 @@ Alternativ kann man den Teig auch schon abends vorbereiten, eine Stunde gehen la
 
 ## Zutaten
 
-- 500 g Dinkelmehl (Type 630 oder 1050)
+- 500 g Dinkelmehl (Type 630)
+  * Alternativ eine Mischung aus 1/3 Dinkelmehl Type 1050 und 2/3 Dinkelmehl Type 630
 - 150 g Buttermilch
 - 10 g Salz
 - 1/2 Würfel frische Hefe

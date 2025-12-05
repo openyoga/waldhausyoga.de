@@ -1,7 +1,7 @@
 ---
 title: Waldhausyoga - Yoga in Waidhaus
 description: Startseite mit allen wichtigen Informationen und Links
-lastmod: 2021-10-03 07:16:02
+lastmod: 2025-10-25 11:09:09
 menu:
   main:
     name: Home
@@ -17,14 +17,6 @@ Wir bieten [Yoga][1] und [Yogatherapie][2] für Einzelpersonen und Kleingruppen 
 [3]: /artikel/2019/functional-training/
 [4]: /personal-training/
 
-## Neueste Artikel
-
-{{< list-content-by-section-and-limit "artikel" 5 >}}
-
-Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwoerter" >}}
-
-[10]: /artikel/
-[11]: /artikel/index.xml
 
 
 ## Neueste Rezepte
@@ -35,3 +27,13 @@ Mehr im [Archiv][12], Abo via [RSS][13], entdecken über Rezeptarten: {{< flat-l
 
 [12]: /rezepte/
 [13]: /rezepte/index.xml
+
+
+## Neueste Artikel
+
+{{< list-content-by-section-and-limit "artikel" 5 >}}
+
+Mehr im [Archiv][10], Abo via [RSS][11], entdecken über Schlagwörter: {{< flat-list-terms-by-taxonomy "schlagwoerter" >}}
+
+[10]: /artikel/
+[11]: /artikel/index.xml
