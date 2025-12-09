@@ -4,10 +4,10 @@ description: Fein abgesschmeckt mit einem Schuss Sahne und Limettensaft
 rezeptarten: [Pasta]
 hauptzutaten: [Zucchini, Sahne, Salbei]
 publishdate: 2024-07-19
-lastmod: 2025-02-25 08:24:00
+lastmod: 2025-12-08 12:08:00
 ---
 
-Dieses vegetarische Rezept entstand in der Zeit, als wir im Garten mit zu viel reifen Zucchini in zu kurzer Zeit beschenkt wurden. Es schmeckt herrlich nach Sommer.
+Dieses vegetarische Rezept entstand in der Zeit, als wir im Garten mit zu viel reifen Zucchini in zu kurzer Zeit beschenkt wurden. Es schmeckt herrlich nach Sommer. Man kann die Zucchini auch noch mit frischen Pfifferlingen aus dem Wald ergänzen.
 
 
 ## Zutaten

@@ -1,13 +1,13 @@
 ---
 title: Birnen-Kompott
-description: bla
+description: Ein leckeres Kompott ohne Industriezucker
 rezeptarten: [Snack]
 hauptzutaten: [Birnen, Apfelsaft]
 publishdate: 2026-12-24
 lastmod: 2026-12-24 09:53:00
 ---
 
-bla.
+Dieses Rezept entstand, als unser Birnbaum uns im Herbst so viele Früchte schenkte, dass wir gar nicht mehr wussten, wohin damit. Es schmeckt herrlich fruchtig und nicht zu süß. Man kann das Kompott auch in sterile Gläser füllen oder einfrieren.
 
 
 ## Zutaten
@@ -21,10 +21,10 @@ bla.
 ## Zubereitung
 
 1. Birnen schälen und in kleine Stücke schneiden
-2. Birnenstuecke 20 Minuten lang im Apfelsaft mit dem Zimt kochen
+2. Birnenstücke 20 Minuten lang im Apfelsaft mit dem Zimt kochen
 3. Limettensaft hinzufügen
-4. Falls das ganze zu fluessig ist, etwas Flohsamenschalen hinzufügen
-5. Birnenkompott pürieren. Eventuell Vanillepudding dazu servieren
+4. Falls das Ganze zu flüssig ist, etwas Flohsamenschalen unterrühren
+5. Birnenkompott pürieren; eventuell Vanillepudding dazu servieren
 
 
 Das Rezept reicht für vier Personen als Dessert.
