@@ -4,7 +4,7 @@ description: Nicht nur im Winter ein leckeres Brot ohne Mehl
 rezeptarten: [Brot]
 hauptzutaten: [Nuesse, Feigen, Leinsamen]
 publishdate: 2025-12-25
-lastmod: 2025-12-25 07:02:00
+lastmod: 2025-12-25 16:15:00
 ---
 
 Das Brot erinnert ein wenig an Früchtebrot, ist aber weniger süß und schmeckt ausgesprochen gut mit allen möglichen Käsesorten: Unser glutenfreies Nuss-Feigen-Brot ohne Mehl. 
@@ -13,7 +13,7 @@ Das Brot erinnert ein wenig an Früchtebrot, ist aber weniger süß und schmeckt
 
 - 330 g zarte Haferflocken
 - 250 g gemischte Nüsse (wir nehmen Mandeln, Walnüsse, Haselnüsse und Cashwekerne zu gleichen Anteilen)
-- 100 g getrockente Feigen
+- 100 g getrocknete Feigen
 - 80 g Leinsamen
 - 20 g Flohsamenschalen
 - 10 g Salz

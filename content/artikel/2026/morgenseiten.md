@@ -2,8 +2,8 @@
 title: Morgenseiten
 description: Was bringt das morgendliche Schreiben?
 schlagwörter: [Achtsamkeit, Mental Health]
-publishdate: 2026-01-26
-lastmod: 2026-01-26 08:26:00
+publishdate: 2026-02-26
+lastmod: 2026-02-26 08:26:00
 ---
 
 {{< img src="/assets/images/writing.jpg" alt="Fueller auf einer linierten Seite mit handschriftlichen Notizen" caption="Foto von Aaron Burden auf unsplash.com">}}

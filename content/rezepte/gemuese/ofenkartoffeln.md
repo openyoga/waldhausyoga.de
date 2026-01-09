@@ -3,8 +3,8 @@ title: Ofenkartoffeln
 description: Kartoffeln aus dem Backofen
 rezeptarten: [Gemuese]
 hauptzutaten: [Kartoffeln]
-publishdate: 2026-12-25
-lastmod: 2026-12-25 06:22:00
+publishdate: 2026-01-09
+lastmod: 2026-01-09 17:39:00
 ---
 
 Wir lieben diese Kartoffeln als Beilage zu allen möglichen Gemüsegerichten. Im Backofen mit italienischen Kräutern und Olivenöl gegart, werden sie sehr knusprig und aromatisch.
