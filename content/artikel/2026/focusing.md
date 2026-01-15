@@ -8,7 +8,7 @@ lastmod: 2026-12-28 08:28:00
 
 {{< img src="/assets/images/focusing.jpg" alt="Frau sitzt auf einer Bank und schaut auf ein Bergpanorama im Abendlicht" caption="Foto von Sage Friedman auf unsplash.com">}}
 
-Eugene T. Gendlin, Professor für Philosophie und Psychologie an der Universität Chicago, entdeckte in den 1960er Jahren bei der Untersuchung von Therapiegesprächen, dass Fortschritte in der Persönlichkeitsentwicklung davon abhingen, welche Fähigkeiten die Patienten selbst mitbrachten und nicht von der Therapierichtung oder dem Therapeuten. Patienten, bei denen echte Veränderungen nachweisbar waren, sprachen in den Therapiesitzungen anders über ihre Probleme: Sie schilderten ihre Themen nicht nur theoretisch und abstrakt, sondern berichteten auch, wie sie sie körperlich erlebten. Daraus entwickelte Gendlin das Focusing: Eine Methode, die körperbasierte Selbstwahrnehmung zu erlernen und sich damit Möglichkeiten zur Veränderung zu erschließen.
+Eugene T. Gendlin, Professor für Philosophie und Psychologie an der Universität Chicago, entdeckte in den 1960er Jahren bei der Untersuchung von Therapiegesprächen, dass Fortschritte in der Persönlichkeitsentwicklung davon abhingen, welche Fähigkeiten die Patienten selbst mitbrachten und nicht von der Therapierichtung oder dem Therapeuten. Patienten, bei denen echte Veränderungen nachweisbar waren, sprachen in den Therapiesitzungen anders über ihre Probleme: Sie schilderten ihre Themen nicht nur theoretisch und abstrakt, sondern berichteten auch, wie sie sie körperlich erlebten. Daraus entwickelte Gendlin das Focusing: Eine Methode, die körperbasierte Selbstwahrnehmung in sechs Schritten durchzuführen und sich damit Möglichkeiten zur Veränderung zu erschließen.
 
 
 ## Felt Sense und Felt Shift
@@ -16,13 +16,13 @@ Eugene T. Gendlin, Professor für Philosophie und Psychologie an der Universitä
 Nur ein Bruchteil von dem, was Gehirn und Körper wissen, ist auch dem Verstand bewusst zugänglich. Das zentrale Nervensystem verabeitet aber auch die Informationen, die dem Bewusstsein nicht zugänglich sind. Mit Focusing kann man sich dieses körperliche Wissen erschließen.
 
 Die beiden wichtigsten Entdeckungen von Gendlin sind:
-1) Es gibt eine Art körperliches Bewusstsein, das unser Leben zutiefst beeinflusst und als Mittel eingesetzt werden kann, um persönliche Ziele zu erreichen: Der Felt Sense. 
+1) Es gibt eine Art körperliches Bewusstsein, das unser Leben zutiefst beeinflusst und als Mittel eingesetzt werden kann, um persönliche Ziele zu erreichen: Der **Felt Sense**. 
 
 >  Ein Felt Sense ist die körperliche Wahrnehmung eines bestimmten Problems oder einer bestimmten Situation. (...) Er ist die körperlich gespürte Bedeutung eines Problems oder Themas. Wenn Sie Focusing lernen, werden Sie entdecken, dass Ihr Körper seinen eigenen Weg und seine eigene Antwort auf viele ihrer Probleme findet.
 >
 > Eugene T. Gendlin: Focusing. Selbsthilfe bei der Lösung persönlicher Probleme, Rowohlt Taschenbuch Verlag, 13. Auflage 2021
 
-2) Ein Felt Sense gerät in Bewegung, wenn man auf die richtige Art und Weise mit ihm umgeht. Wenn mein Felt Sense sich verändert, verändere ich mich selbst und mein Leben. Veränderungen im körperlichen Erleben sind sofort spürbar als Erleichterung oder Lösen von Anspannung. Diese gefühlte Veränderung nennt Gendlin Felt Shift. 
+2) Ein Felt Sense gerät in Bewegung, wenn man auf die richtige Art und Weise mit ihm umgeht. Wenn mein Felt Sense sich verändert, verändere ich mich selbst und mein Leben. Veränderungen im körperlichen Erleben sind sofort spürbar als Erleichterung oder Lösen von Anspannung. Diese gefühlte Veränderung nennt Gendlin **Felt Shift**. 
 
 ## Sechs Schritte 
 
@@ -50,7 +50,7 @@ Nun gehe ich innerlich zwischen meinem Felt Sense und dem Wort/Satz/Bild hin und
 
 5) **Fragen**
 
-Nun stelle ich mir einige Fragen und bleibe mit meinem Felt Sense in Kontakt, bis die Antwort mit einem Felt Shift im Körper spürbar wird. Fragen können sein: Woran liegt es, dass dieses Problem Wort/Satz/Bild in mir hervorruft? Was macht das ganze Problem so Wort/Satz/Bild? Was ist das Schlimmste an diesem Gefühl? Was braucht es, damit es besser wird? Was sollte geschehen? Was wäre es für ein Gefühl, wenn alles in Ordnung wäre? Was steht im Wege?
+Nun stelle ich mir einige Fragen und bleibe mit meinem Felt Sense in Kontakt, bis die Antwort mit einem Felt Shift im Körper spürbar wird. Fragen können sein: Woran liegt es, dass dieses Problem Wort/Satz/Bild in mir hervorruft? Was macht das ganze Problem so Wort/Satz/Bild? Was ist das Schlimmste an diesem Gefühl? Was braucht es, damit es besser wird? Was sollte geschehen? Was wäre es für ein Gefühl, wenn alles in Ordnung wäre? Was steht dem im Wege?
 
 
 6) **Annehmen und schützen**

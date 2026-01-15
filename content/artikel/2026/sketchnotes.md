@@ -2,8 +2,8 @@
 title: Sketchnotes
 description: Visuelle Notizen machen Spaß
 schlagwörter: [Achtsamkeit, Mental Health]
-publishdate: 2026-12-26
-lastmod: 2026-12-26 08:28:00
+publishdate: 2026-01-18
+lastmod: 2026-01-18 08:18:00
 ---
 
 {{< img src="/assets/images/sketchnotes.jpg" alt="Hand hänlt einen Bleistift und zeichnet kleine Skizzen auf einen Block" caption="Foto von Kit (ehemals ConvertKit) auf unsplash.com">}}
@@ -33,12 +33,12 @@ In der Tat macht das Zeichnen von Sketchnotes Spaß, sobald Du Dich von Deinen e
 
 ## Soulshine Sketchnotes 
 
-Eine besondere Form von Sketchnotes hat die Wirtschaftspsychologin Britta Ullrich entwickelt: Die Soulshine Sketchnotes. Du kannst sie Dir als eine Art visuelles Dankbarkeitstagebuch vorstellen: Du zeichnest jeden Tag eine kleine Notiz mit einem Moment, der besonders schön war. Auch an schlechten Tagen gibt es bestimmt irgendetwas, was gut ist. Manchmal zeichne ich einfach nur meine Kaffeetasse. Und lenke damit meine Aufmerksamkeit hin zu dem, was heute positiv ist. Oft kann ich mich dann noch ein zweites Mal über das schöne Ereignis freuen. Mit der Zeit trainiert man auch seinen Blick für die kleinen, schönen Momente und verankert sie verbal und visuell in seinem Journal. Natürlich komme ich nicht jeden Tag dazu, meine Notiz zu zeichnen. Dann nehme ich mir am Wochenende etwas mehr Zeit, meinen Wochenrückblick Tag für Tag nachzuzeichnen. 
+Eine besondere Form von Sketchnotes hat die Wirtschaftspsychologin Britta Ullrich entwickelt: Die Soulshine Sketchnotes. Du kannst sie Dir als eine Art visuelles Dankbarkeitstagebuch vorstellen: Du zeichnest jeden Tag eine kleine Notiz mit einem Moment, der besonders schön war. Auch an schlechten Tagen gibt es bestimmt irgendetwas, was gut ist. Manchmal zeichne ich einfach nur meine Kaffeetasse. Und lenke damit meine Aufmerksamkeit hin zu dem, was heute positiv ist. Oft kann ich mich dann noch ein zweites Mal über das schöne Ereignis freuen. Mit der Zeit trainiert man auch seinen Blick für die kleinen, schönen Momente und verankert sie verbal und visuell in seinem Journal. 
 
-Britta Ullrich beschreibt die Entstehung ihrer Idee folgendermaßen:
+Natürlich komme ich nicht jeden Tag dazu, meine Notiz zu zeichnen. Dann nehme ich mir am Wochenende etwas mehr Zeit, meinen Wochenrückblick Tag für Tag nachzuzeichnen. Britta Ullrich beschreibt die Entstehung ihrer Idee folgendermaßen:
 
 >  Schöne Momente und was unser Herz zum Leuchten bringt in kleinen Sketchnotes festzuhalten - das ist ein echtes Soulshine-Feuerwerk! Und so ist an diesem Abend die Idee für meine Soulshine Sketchnotes entstanden. Einfache Zeichnungen, kombiniert mit Text, die uns regelmäßig unsere stärkenden Momente bewusst machen - und auch in düsteren Zeiten die Seele immer mal zum Scheinen bringen.
 >
 > Britta Ullrich, Soulshine Sketchnotes. Zeichne, was Dich zum Strahlen bringt, Eigenverlag, 1. Auflage 2024
 
-Plane pro Woche eine DIN A4 Seite für Soulshine Sketchnotes ein, egal ob auf einem einfachen Blatt oder in einem Bullet Journal. Du zeichnest pro Woche sieben Soulshine Momente. Du kannst auch einen achten als Joker nutzen, wenn Du die Seite in zweimal vier Kästen einteilen willst. Wenn Du möchtest, kannst Du auch jeden Monat einen Monatsrückblick mit zwei, drei Highlights zeichnen oder einen Jahresückblick gestalten. Zeichne dabei so unbeschwert und sorglos wie ein Kind. Du musst die Notizen niemandem zeigen und darfst einfach Freude daran haben.
+Plane pro Woche eine DIN A4 Seite für Soulshine Sketchnotes ein, egal ob auf einem einfachen Blatt oder in einem Bullet Journal. Du zeichnest wöchentlich sieben Soulshine Momente. Du kannst auch einen achten als Joker nutzen, wenn Du die Seite in zweimal vier Kästen einteilen willst. Wenn Du möchtest, kannst Du auch jeden Monat einen Monatsrückblick mit zwei, drei Highlights zeichnen oder einen Jahresückblick gestalten. Zeichne dabei so unbeschwert und sorglos wie ein Kind. Du musst die Notizen niemandem zeigen und darfst einfach Freude daran haben.
