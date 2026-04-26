@@ -1,9 +1,9 @@
 ---
 title: Sketchnotes
 description: Visuelle Notizen machen Spaß
-schlagwörter: [Achtsamkeit, Mental Health]
+schlagwoerter: [Achtsamkeit, Mental Health]
 publishdate: 2026-01-18
-lastmod: 2026-01-18 08:18:00
+lastmod: 2026-01-18 10:08:00
 ---
 
 {{< img src="/assets/images/sketchnotes.jpg" alt="Hand hänlt einen Bleistift und zeichnet kleine Skizzen auf einen Block" caption="Foto von Kit (ehemals ConvertKit) auf unsplash.com">}}
@@ -41,4 +41,4 @@ Natürlich komme ich nicht jeden Tag dazu, meine Notiz zu zeichnen. Dann nehme i
 >
 > Britta Ullrich, Soulshine Sketchnotes. Zeichne, was Dich zum Strahlen bringt, Eigenverlag, 1. Auflage 2024
 
-Plane pro Woche eine DIN A4 Seite für Soulshine Sketchnotes ein, egal ob auf einem einfachen Blatt oder in einem Bullet Journal. Du zeichnest wöchentlich sieben Soulshine Momente. Du kannst auch einen achten als Joker nutzen, wenn Du die Seite in zweimal vier Kästen einteilen willst. Wenn Du möchtest, kannst Du auch jeden Monat einen Monatsrückblick mit zwei, drei Highlights zeichnen oder einen Jahresückblick gestalten. Zeichne dabei so unbeschwert und sorglos wie ein Kind. Du musst die Notizen niemandem zeigen und darfst einfach Freude daran haben.
+Plane pro Woche eine DIN A4 Seite für Soulshine Sketchnotes ein, egal ob auf einem einfachen Blatt Papier oder in einem Bullet Journal. Du zeichnest wöchentlich sieben Soulshine Momente. Du kannst auch einen achten als Joker nutzen, wenn Du die Seite in zweimal vier Kästen einteilen willst. Wenn Du möchtest, kannst Du zusätzlich jeden Monat einen Monatsrückblick mit zwei, drei Highlights zeichnen oder einen Jahresückblick gestalten. Zeichne dabei so unbeschwert und sorglos wie ein Kind. Du musst die Notizen niemandem zeigen und darfst einfach Freude daran haben.

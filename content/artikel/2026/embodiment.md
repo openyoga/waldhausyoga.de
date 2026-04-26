@@ -1,7 +1,7 @@
 ---
 title: Embodiment
 description: Wie Körper und Geist sich gegenseitig beeinflussen
-schlagwörter: [Achtsamkeit, Mental Health]
+schlagwoerter: [Achtsamkeit, Mental Health]
 publishdate: 2026-12-26
 lastmod: 2026-12-26 08:28:00
 ---

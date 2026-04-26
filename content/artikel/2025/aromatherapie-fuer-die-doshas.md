@@ -1,7 +1,7 @@
 ---
 title: Aromatherapie für die Doshas
 description: Welche Wirkung wir mit welchem Duft erzielen
-schlagwörter: [Ayurveda]
+schlagwoerter: [Ayurveda]
 publishdate: 2025-01-25
 lastmod: 2025-01-25 08:35:00
 ---

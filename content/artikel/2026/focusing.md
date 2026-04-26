@@ -1,7 +1,7 @@
 ---
 title: Blockaden lösen mit Focusing
 description: Körperbasierte Selbstwahrnehmung
-schlagwörter: [Achtsamkeit, Mental Health]
+schlagwoerter: [Achtsamkeit, Mental Health]
 publishdate: 2026-12-28
 lastmod: 2026-12-28 08:28:00
 ---

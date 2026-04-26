@@ -16,6 +16,7 @@ Alle drei Gemüsesorten in diesem Rezept kommen aus der Erde. Im Backofen gegart
 - 500 g Karotten, geschält, klein geschnitten
 - 500 g Kartoffeln, gewaschen und klein geschnitten
 - 125 ml Gemüsebrühe
+- 80 g Walnüsse, klein gehackt
 - 3 El Olivenöl
 - 1 Tl Rosmarin, getrocknet
 - 1 Tl Oregano, getrocknet
@@ -27,9 +28,10 @@ Alle drei Gemüsesorten in diesem Rezept kommen aus der Erde. Im Backofen gegart
 ## Zubereitung
 
 1. Den Backofen auf 200 Grad Umluft vorheizen
-2. Alle Zutaten bis auf den Käse in einer Schüssel verrühren und auf ein Backblech geben
+2. Alle Zutaten bis auf den Käse und die Walnüsse in einer Schüssel verrühren und auf ein Backblech geben
 3. Für ca. 30 Minuten bei 200 Grad Umluft im Backofen garen
-4. Auf Teller verteilen und mit Pecorino oder Feta bestreuen
+4. Walnüsse in einer beschichteten Pfanne ohne Fett rösten
+5. Alle Zutaten mischen, auf Teller verteilen und mit Pecorino oder Feta bestreuen
  
 
 Das Rezept reicht für vier Personen.
