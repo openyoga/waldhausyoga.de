@@ -3,8 +3,8 @@ title: Mangoldgemüse
 description:  Revival des vergessenen Krautstiels
 rezeptarten: [Gemuese]
 hauptzutaten: [Mangold]
-publishdate: 2026-03-26
-lastmod: 2026-03-26 11:21:02
+publishdate: 2026-04-26
+lastmod: 2026-04-26 11:21:02
 ---
 
 Mangold ist eigentlich eine Kulturform der Rübe. Im Gemüsebeet macht er sich mit seinen verschiedenfarbigen Stängeln und Blättern ausgesprochen dekorativ und gleichzeitig ist er sehr robust. Man kann sowohl die Stängel als auch die Blätter essen. Die Blätter schmecken etwas herber und aromatischer als Spinat, die Stiele sind je nach Sorte leicht süßlich bis mild. In diesem Rezept bereiten wir eine leckere Mischung aus Stängeln und Blättern als Gemüsebeilage zu. 
